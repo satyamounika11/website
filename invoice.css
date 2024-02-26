@@ -1,0 +1,42 @@
+body {
+  padding-top: 80px;
+}
+.navbar-brand {
+    color: black;
+    font-size: 35px;
+    margin: auto;
+  } 
+  .required-field::after {
+    content: "*";
+    color: red;
+}
+  .invoice-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  .form-group {
+    margin-bottom: 15px;
+  }
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  #orderConfirmation {
+    margin-top: 20px;
+  }
+

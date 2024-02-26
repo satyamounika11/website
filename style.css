@@ -1,0 +1,90 @@
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 75vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.my-4{
+	text-align: center;
+}
+.col-lg-4 .card{
+	background-color: #f1f1f1;
+}
+.col-lg-4 .card-img-top{
+	height: 60vh;
+}
+.col-lg-4 .dealer{
+	border-radius: 50%;
+	height: 30px;
+	width: 30px;
+}
+.col-lg-4 .card-title{
+	color: black;
+}
+.col-lg-4 .card-text{
+	font-size: 12px;
+}
+.col-lg-4 .btn{
+	font-size: 12px;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.navbar-brand {
+	color: black;
+	font-size: 35px;
+}
+.nav-link {
+	font-size: 16px;
+	font-weight: bolder;
+}
+.col-lg-6 {
+	padding-bottom: 10px;
+}
+.search {
+	padding-top: 10px;
+}
+.search .form-control {
+	border-radius: 25px;
+}
+.carousel-caption {
+	padding-bottom: 100px;
+	padding-left: 500px;
+}
+.col-lg-6 .img-fluid{
+	height: 55vh;
+}
+.my-3{
+	text-align: center;
+}
+.footer-top{
+	background-color: #3B4047;
+	color: #ffffff;
+}
+.footer-top .col-md-4 {
+	padding-top: 15px;
+	font-size: 12px;
+}
+.col-md-4 .fab {
+	color: #f1f1f1;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+.col-md-4 .subscribe .form-control{
+	border-radius: 25px;
+}
+.col-md-4 .col-md-6 .cards{
+	height: 30px;
+	width: 40px;
+	padding-bottom: 10px;
+}
+
